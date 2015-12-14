@@ -1,0 +1,7 @@
+{
+  "@type":"rpg.models.items.consumables.foods.FoodItemModel",
+  "name": "Apple",
+  "maxStackSize": 100,
+  "stackSize": 1,
+  "health": 2
+}
